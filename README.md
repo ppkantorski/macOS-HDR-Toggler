@@ -1,4 +1,4 @@
-# macOS HDR Toggler v1.0 (Catalina / Big Sur)
+# macOS HDR Toggler (Big Sur / Catalina)
 Toggle HDR on/off with keyboard shortcuts!
 
 # Features
