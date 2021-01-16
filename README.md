@@ -13,4 +13,4 @@ Want to watch HDR Netflix on Safari or YouTube but hate going back and forth int
 6. Finally, the HDR Toggler should now be working.  Remember, these shortcuts might not work on any application, but in Finder and Safari at the very least.  If you have any issues, let me know. :)
 
 # Uninstalling
-Uninstalling HDR Toggler is as simple as running "rm -rf ~/Library/Services/HDR\ Toggler.workflow".
+Uninstalling HDR Toggler is as simple as running "rm -rf ~/Library/Services/HDR\ Toggler.workflow" on Terminal.
